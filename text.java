@@ -1,5 +1,5 @@
 class text{
-    public staatic void main(string[]args){
-        system.out.ptintln("hello world!!");
+    public static void main(String[]args){
+        System.out.println("hello world!!");
     }
 }
